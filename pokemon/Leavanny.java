@@ -10,7 +10,6 @@ public class Leavanny extends Swadloon {
         setType(Type.BUG, Type.GRASS);
         setStats(75, 103, 80, 70, 80, 92);
         this.addMove(new StruggleBug());
-        //System.out.println("LLL");
     }
 
 }
